@@ -75,3 +75,7 @@ pip install -r requirements.txt
 ```bash
 python "1. Bot/main.py"
 ```
+## 👨‍💻 Autor
+
+**Roberto Mangger**  
+[LinkedIn](https://www.linkedin.com/in/rmangger/)  
